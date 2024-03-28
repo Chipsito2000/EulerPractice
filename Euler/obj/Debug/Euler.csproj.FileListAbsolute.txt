@@ -1,0 +1,15 @@
+C:\Users\Carlo\source\repos\Euler\Euler\bin\Debug\Euler.exe.config
+C:\Users\Carlo\source\repos\Euler\Euler\bin\Debug\Euler.exe
+C:\Users\Carlo\source\repos\Euler\Euler\bin\Debug\Euler.pdb
+C:\Users\Carlo\source\repos\Euler\Euler\obj\Debug\Euler.csproj.AssemblyReference.cache
+C:\Users\Carlo\source\repos\Euler\Euler\obj\Debug\Euler.csproj.SuggestedBindingRedirects.cache
+C:\Users\Carlo\source\repos\Euler\Euler\obj\Debug\Euler.csproj.CoreCompileInputs.cache
+C:\Users\Carlo\source\repos\Euler\Euler\obj\Debug\Euler.exe
+C:\Users\Carlo\source\repos\Euler\Euler\obj\Debug\Euler.pdb
+D:\Proyectos clase\Euler\Euler\Euler\bin\Debug\Euler.exe.config
+D:\Proyectos clase\Euler\Euler\Euler\bin\Debug\Euler.exe
+D:\Proyectos clase\Euler\Euler\Euler\bin\Debug\Euler.pdb
+D:\Proyectos clase\Euler\Euler\Euler\obj\Debug\Euler.csproj.AssemblyReference.cache
+D:\Proyectos clase\Euler\Euler\Euler\obj\Debug\Euler.csproj.CoreCompileInputs.cache
+D:\Proyectos clase\Euler\Euler\Euler\obj\Debug\Euler.exe
+D:\Proyectos clase\Euler\Euler\Euler\obj\Debug\Euler.pdb
